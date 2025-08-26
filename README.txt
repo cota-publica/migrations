@@ -1,1 +1,1 @@
-/**/
+/* Este arquivo irá conter a documentaçã dos estudos */
